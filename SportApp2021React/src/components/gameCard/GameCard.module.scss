@@ -1,0 +1,28 @@
+.teamLogo {
+  max-height: 4rem;
+  max-width: 100%;
+  border-radius: 3%;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+  bottom: 50%;
+  position: sticky;
+
+}
+.teamName {
+  text-align: center;
+  font-weight: bolder;
+}
+.teamScore {
+  text-align: center;
+  font-family: "Karla", sans-serif;
+}
+
+.gameCard {
+  background-color: black;
+}

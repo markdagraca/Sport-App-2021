@@ -1,6 +1,18 @@
+$backgroundColor: #222831;
+$backgroundColorSecondary:#393E46;
+$accentColor:#FFD369;
+$textColor:#EEEEEE;
+
 .App {
-  background-color: gray;
-  height: 100%;
+  text-align: center;
+  background-color: $backgroundColor;
+  min-height: auto;
+  min-width: 100vh;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .App-logo {
